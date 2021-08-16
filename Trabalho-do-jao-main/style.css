@@ -1,0 +1,22 @@
+    h2 {
+        color: darkgreen;
+    }
+    body{
+        margin-left:15%;
+        margin-right:15%;
+        text-align: center;
+    }
+    img{
+        width: 500px;
+    }
+    .arvore {
+        width: 150px;
+    }
+    .menuButton {
+        background-color: rgb(174, 252, 180);
+    }
+    .voltarButton{
+        width:150px;
+        height:30px;
+        font-size:20px;
+    }
